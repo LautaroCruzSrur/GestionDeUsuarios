@@ -7,7 +7,7 @@ Listado :
 3. Registro de usuarios
 4. Autenticacion con login y password
 5. Verificacion de autenticacion
-6. Session de usuario con cookies
+6. Session de usuario con cookies y rutas protegidas
 7. Json Web Tokens
 8. Refactorizacion con un middleware
 9. Cerrar Session
